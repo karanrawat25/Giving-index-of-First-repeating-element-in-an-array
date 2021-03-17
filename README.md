@@ -1,0 +1,1 @@
+# Giving-index-First-repeating-element-in-an-array
